@@ -1,6 +1,5 @@
 ## **CRUD GENÉRICO - Individual**
 #### *Nome:* Luiza Ribeiro Parente Silva
-#### *Matrícula:* 689970
 ---
 ### **Registro**
 Essa entidade foi desenvolvida como interface para o trabalho do crud, servindo como assinatura das funções que foram implementadas nas classes Produto.java e CRUD.java.
